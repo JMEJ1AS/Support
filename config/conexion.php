@@ -1,10 +1,10 @@
 <?php
 
-$host="129.151.99.42";
+$host="XXX.XXX.XXX.XXX";
 
-$usuario="admin";
+$usuario="XXXX";
 
-$contraseña="linux";
+$contraseña="XXXX";
 
 $base="support";
 
